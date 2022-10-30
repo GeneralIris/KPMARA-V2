@@ -13,5 +13,8 @@ Unfortunatelly no ;(
 # How well it's being codded?
 I can say this was my first experience with ajax and MS-SQL. It was fun and other employees there also help me ;)
 
+# Is the actual DB correlates to the actual MARA DB structure?
+No, I structure them my self, no DB reference given to me, only requirements
+
 # Credits
 A trillion thanks to my supervisor, sys admin and other employees there that guide me on understand how the real working environment is
